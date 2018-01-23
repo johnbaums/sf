@@ -28,7 +28,7 @@ See also:
 * UseR! 2016 [presentation](http://pebesma.staff.ifgi.de/pebesma_sfr.pdf)
 
 
-## Installling
+## Installing
 
 Install either from CRAN with:
 ```r
